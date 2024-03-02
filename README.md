@@ -1,4 +1,4 @@
-# CS360
+# CS-360
 
 ### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
